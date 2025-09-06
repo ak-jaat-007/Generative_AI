@@ -66,7 +66,7 @@ PORT=5000
 4. Run the app
 5. Open in browser
 Navigate to:
-👉 http://localhost:5000
+👉 http://localhost:3000
 
 Future Improvements
 
